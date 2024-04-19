@@ -22,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mohandhas28.ReactNative_Cli"
     },
     "web": {
       "favicon": "./assets/favicon.png"
